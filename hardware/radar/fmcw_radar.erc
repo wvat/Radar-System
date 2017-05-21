@@ -1,0 +1,20 @@
+ERC report (2016-01-24 6:30:45 PM, Encoding UTF8 )
+
+***** Sheet /
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (340.36 mm,119.38 mm): Pin 6 (Power input) of component U7 is not driven (Net 2).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (173.99 mm,58.42 mm): Pin 2 (Passive) of component L1 is not driven (Net 3).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (168.91 mm,60.96 mm): Pin 16 (Power input) of component U3 is not driven (Net 4).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (83.82 mm,59.69 mm): Pin 1 (Power input) of component #PWR03 is not driven (Net 10).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (69.85 mm,62.23 mm): Pin 20 (Power input) of component U1 is not driven (Net 11).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (153.67 mm,80.01 mm): Pin 6 (Power input) of component U3 is not driven (Net 12).
+ErrType(5): Conflict problem between pins. Severity: error
+    @ (195.58 mm,76.20 mm): Pin 10 (Output) of component U3 is connected to 
+    @ (195.58 mm,71.12 mm): pin 11 (Output) of component U3 (net 18).
+
+ ** ERC messages: 7  Errors 1  Warnings 6
