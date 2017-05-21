@@ -1,0 +1,1 @@
+main.c - Sample and transmission code to be run on an Atmega16 8-bit microcontroller. 
